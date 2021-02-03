@@ -8,7 +8,7 @@
         },
      "export":
         {
-         "target":"..\/..\/..\/Dev\/Youniverse"
+         "target":"..\/..\/Dev\/Youniverse"
         }
     },
  "height":57,
@@ -700,7 +700,7 @@
         {
          "columns":40,
          "firstgid":1,
-         "image":"assets\/modern_tileset.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/modern_tileset.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -4638,7 +4638,7 @@
         {
          "columns":18,
          "firstgid":2321,
-         "image":"assets\/modern_interiors.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/modern_interiors.png",
          "imageheight":14368,
          "imagewidth":600,
          "margin":0,
@@ -62252,7 +62252,7 @@
         {
          "columns":22,
          "firstgid":10403,
-         "image":"assets\/office_interiors.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/office_interiors.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -63562,7 +63562,7 @@
         {
          "columns":16,
          "firstgid":10931,
-         "image":"assets\/youniverse-tileset.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/youniverse-tileset.png",
          "imageheight":640,
          "imagewidth":512,
          "margin":0,
@@ -63575,7 +63575,7 @@
         {
          "columns":16,
          "firstgid":11251,
-         "image":"assets\/modern_interiors_nightmode.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/modern_interiors_nightmode.png",
          "imageheight":13024,
          "imagewidth":512,
          "margin":0,
@@ -63697,7 +63697,7 @@
         {
          "columns":40,
          "firstgid":17763,
-         "image":"assets\/modern_tileset_darkmode.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/modern_tileset_darkmode.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -63837,7 +63837,7 @@
         {
          "columns":19,
          "firstgid":20083,
-         "image":"assets\/outside_tileset.png",
+         "image":"..\/Downloads\/Youniverse-master\/assets\/outside_tileset.png",
          "imageheight":1440,
          "imagewidth":608,
          "margin":0,
